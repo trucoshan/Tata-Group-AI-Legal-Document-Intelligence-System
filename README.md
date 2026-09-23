@@ -1,5 +1,5 @@
 current project structure
-
+```
 C:.
 |   .gitignore
 |   .python-version
@@ -33,3 +33,4 @@ C:.
 |   +---parsing
 |   \---quality_checks
 \---frontend
+```
