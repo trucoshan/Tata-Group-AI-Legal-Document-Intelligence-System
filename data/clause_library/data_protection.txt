@@ -1,0 +1,71 @@
+TITLE: Lawful Personal Data Processing Standard
+CATEGORY: DATA PROTECTION & PRIVACY
+REFERENCE_ID: POL-DP-LAW-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors must process personal data only for defined, lawful, and authorized purposes and must comply with applicable data protection and privacy laws throughout the contractual relationship.
+
+TITLE: Data Processing Purpose Limitation Standard
+CATEGORY: DATA PROTECTION & PRIVACY
+REFERENCE_ID: POL-DP-PUR-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors must collect, access, use, and process personal data only to the extent necessary to perform authorized contractual services and must not use the data for independent or unauthorized purposes.
+
+TITLE: Personal Data Security Standard
+CATEGORY: DATA PROTECTION & INFORMATION SECURITY
+REFERENCE_ID: POL-DP-SEC-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must implement appropriate technical, organizational, and physical safeguards to protect personal data against unauthorized access, disclosure, alteration, loss, destruction, or misuse.
+
+TITLE: Data Encryption Standard
+CATEGORY: DATA PROTECTION & INFORMATION SECURITY
+REFERENCE_ID: POL-DP-ENC-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Sensitive personal data must be protected using appropriate encryption or equivalent safeguards during transmission and while stored, consistent with applicable security requirements and risk.
+
+TITLE: Personal Data Breach Notification Standard
+CATEGORY: DATA PROTECTION & PRIVACY
+REFERENCE_ID: POL-DP-BRE-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of actual or suspected personal data breaches, provide available incident details, cooperate with investigation and containment, and support legally required notifications and remediation.
+
+TITLE: Data Subject & Data Principal Rights Standard
+CATEGORY: DATA PROTECTION & PRIVACY
+REFERENCE_ID: POL-DP-RGT-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide reasonable assistance to Tata Group in responding to legally applicable requests concerning access, correction, deletion, consent withdrawal, grievance handling, or other data subject or data principal rights.
+
+TITLE: Personal Data Retention & Deletion Standard
+CATEGORY: DATA PROTECTION & PRIVACY
+REFERENCE_ID: POL-DP-RET-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must retain personal data only for the period required to perform authorized services or satisfy applicable legal obligations and must securely delete or return personal data when retention is no longer required.
+
+TITLE: Cross-Border Data Transfer Standard
+CATEGORY: DATA PROTECTION & PRIVACY
+REFERENCE_ID: POL-DP-XFR-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Cross-border transfers of personal data must comply with applicable data protection laws, contractual requirements, transfer restrictions, and approved safeguards applicable to the relevant jurisdiction.
+
+TITLE: Subprocessor & Third-Party Data Processing Standard
+CATEGORY: DATA PROTECTION & VENDOR MANAGEMENT
+REFERENCE_ID: POL-DP-SUB-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must obtain required approval before appointing subprocessors that process Tata Group personal data and must impose data protection obligations on subprocessors that are materially consistent with the vendor's contractual obligations.
+
+TITLE: Data Processing Records & Audit Standard
+CATEGORY: DATA PROTECTION & AUDIT
+REFERENCE_ID: POL-DP-AUD-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain appropriate records demonstrating compliance with contractual data protection obligations and provide reasonable information, documentation, and audit cooperation required to verify compliance.
+
+TITLE: Data Protection Impact Assessment Standard
+CATEGORY: DATA PROTECTION & PRIVACY
+REFERENCE_ID: POL-DP-DPI-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors must support privacy or data protection impact assessments where processing activities present material privacy risks or where such assessments are required by applicable law or contractual requirements.
+
+TITLE: Data Processing Agreement Standard
+CATEGORY: DATA PROTECTION & CONTRACTS
+REFERENCE_ID: POL-DP-DPA-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendor processing of Tata Group personal data must be governed by documented contractual terms defining processing purposes, permitted activities, security obligations, breach handling, subcontracting, retention, deletion, and applicable data protection responsibilities.

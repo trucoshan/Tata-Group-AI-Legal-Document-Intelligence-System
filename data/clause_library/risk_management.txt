@@ -1,0 +1,71 @@
+TITLE: Force Majeure Event Definition Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-FM-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Force majeure provisions must clearly define qualifying events, which may include natural disasters, war, terrorism, pandemics, governmental actions, and other events beyond the affected party's reasonable control, while excluding events that could reasonably have been prevented or mitigated.
+
+TITLE: Force Majeure Notification Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-NOT-2026-02
+JURISDICTION: India / Global
+GUIDANCE: A party seeking force majeure relief must provide prompt written notice describing the event, affected obligations, expected duration, and reasonable mitigation measures, with notice within 48 hours preferred where operationally practicable.
+
+TITLE: Force Majeure Mitigation Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-MIT-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Parties affected by a force majeure event must take reasonable measures to mitigate its impact, minimize disruption, and resume contractual performance as soon as reasonably practicable.
+
+TITLE: Force Majeure Performance Suspension Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-SUS-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Force majeure relief should be limited to obligations directly prevented or materially impaired by the qualifying event and should not automatically excuse unaffected contractual obligations or payment obligations for services already performed.
+
+TITLE: Force Majeure Extended Disruption Termination Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-EXT-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Agreements should permit termination or other appropriate remedies where a qualifying force majeure event continues for a defined extended period and materially prevents contractual performance.
+
+TITLE: Business Continuity & Disaster Recovery Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-BCP-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors providing material or critical services must maintain appropriate business continuity and disaster recovery plans covering foreseeable operational disruptions and must periodically test and update those plans.
+
+TITLE: Critical Risk Identification & Escalation Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-ESC-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must identify and promptly escalate material risks that could significantly affect contractual performance, Tata Group operations, information security, regulatory compliance, financial stability, or service continuity.
+
+TITLE: Operational Risk Assessment Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-OPE-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Material vendor engagements should be assessed for operational, financial, technological, security, regulatory, geographic, and third-party risks appropriate to the nature and criticality of the services.
+
+TITLE: Risk Mitigation & Corrective Action Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-COR-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must implement reasonable mitigation and corrective actions for identified material risks and provide evidence of remediation where required by contract or authorized Tata Group review.
+
+TITLE: Material Risk Change Notification Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-CHG-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of material changes in financial condition, ownership, operating location, technology, security posture, subcontracting, regulatory status, or other circumstances that materially increase contractual risk.
+
+TITLE: Risk Monitoring & Reporting Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-RPT-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors providing material or critical services must provide agreed risk, incident, continuity, security, and performance information necessary for Tata Group to monitor material contractual risks.
+
+TITLE: Concentration & Dependency Risk Standard
+CATEGORY: RISK MANAGEMENT
+REFERENCE_ID: POL-RSK-CON-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Material dependency on a single vendor, subcontractor, facility, geography, technology platform, or other critical resource must be identified and managed through appropriate continuity, contingency, or diversification measures.

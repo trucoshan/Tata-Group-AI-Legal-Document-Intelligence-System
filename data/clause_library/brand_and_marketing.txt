@@ -1,0 +1,73 @@
+TITLE: Tata Trademark Usage Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-TRM-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not use Tata Group trademarks, logos, trade names, brand elements, or other protected identifiers without prior written authorization and must comply with approved brand usage requirements.
+
+TITLE: Logo & Brand Asset Approval Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-LOG-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors must obtain prior approval before reproducing, modifying, displaying, distributing, or incorporating Tata Group logos, visual assets, or other brand materials into marketing, products, services, or communications.
+
+TITLE: Publicity & Press Release Restriction Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-PRS-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not issue press releases, public announcements, media statements, case studies, or other publicity referencing Tata Group or the contractual relationship without prior written approval.
+
+TITLE: Marketing & Promotional Materials Approval Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-MKT-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendor-created marketing, advertising, promotional, presentation, website, social media, or other public-facing materials referencing Tata Group must receive prior written approval before publication or distribution.
+
+TITLE: Tata Group Name & Trade Name Protection Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-NAM-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendors must use Tata Group names and affiliated company names only in the manner expressly authorized and must not imply endorsement, sponsorship, partnership, certification, or affiliation beyond the actual contractual relationship.
+
+TITLE: Brand Representation & Endorsement Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-END-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not represent that Tata Group endorses, recommends, certifies, sponsors, or guarantees vendor products, services, or capabilities unless such representation has been expressly authorized in writing.
+
+TITLE: Case Study & Customer Reference Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-CSY-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must obtain prior written approval before identifying Tata Group as a customer, publishing Tata-related case studies, displaying Tata logos in customer lists, or describing the commercial relationship in promotional materials.
+
+TITLE: Social Media & Digital Communications Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-SOC-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not publish Tata Group names, trademarks, logos, confidential information, project details, or engagement-related content through social media or digital channels without applicable authorization.
+
+TITLE: Brand Asset Modification Restriction Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-MOD-2026-09
+JURISDICTION: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-MOD-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not alter, distort, recolor, combine, or otherwise modify Tata Group brand assets except in accordance with approved brand guidelines and authorized usage instructions.
+
+TITLE: Brand Usage Termination Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-EXT-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Upon expiration or termination of the applicable agreement, vendors must immediately cease unauthorized use of Tata Group trademarks, logos, names, promotional materials, and other brand assets and remove them from applicable public-facing channels.
+
+TITLE: Brand Compliance & Audit Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-AUD-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide reasonable evidence of compliance with authorized Tata Group brand usage requirements and must promptly correct unauthorized or non-compliant use identified through review.
+
+TITLE: Intellectual Property & Brand Ownership Standard
+CATEGORY: BRAND & MARKETING
+REFERENCE_ID: POL-BRD-IP-2026-12
+JURISDICTION: India / Global
+GUIDANCE: All Tata Group trademarks, logos, brand assets, trade names, and related intellectual property remain the property of their respective rights holders, and vendor use creates no ownership interest or implied license beyond expressly authorized rights.

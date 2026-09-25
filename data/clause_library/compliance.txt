@@ -1,0 +1,71 @@
+TITLE: Applicable Laws & Regulations Compliance Standard
+CATEGORY: ETHICS & COMPLIANCE
+REFERENCE_ID: POL-CMP-LAW-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors must comply with all laws, regulations, regulatory requirements, and binding governmental requirements applicable to their contractual activities, personnel, services, and deliverables.
+
+TITLE: Anti-Bribery & Anti-Corruption Compliance Standard
+CATEGORY: ETHICS & COMPLIANCE
+REFERENCE_ID: POL-CMP-ABAC-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors must comply with applicable anti-bribery and anti-corruption laws and must not offer, promise, authorize, solicit, or provide improper payments, benefits, kickbacks, or other advantages to obtain or retain business.
+
+TITLE: Sanctions & Export Controls Compliance Standard
+CATEGORY: TRADE & COMPLIANCE
+REFERENCE_ID: POL-CMP-SAN-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must comply with applicable sanctions, embargoes, export controls, import restrictions, and trade regulations and must not knowingly transact with restricted persons, entities, or jurisdictions where prohibited.
+
+TITLE: Data Protection Compliance Standard
+CATEGORY: DATA PROTECTION & COMPLIANCE
+REFERENCE_ID: POL-CMP-DAT-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors must comply with applicable data protection and privacy laws and contractual data protection requirements when collecting, accessing, processing, storing, transferring, or deleting Tata Group personal data.
+
+TITLE: Information Security Compliance Standard
+CATEGORY: INFORMATION SECURITY & COMPLIANCE
+REFERENCE_ID: POL-CMP-SEC-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendors accessing Tata Group systems or information must maintain appropriate information security controls and comply with applicable contractual security requirements, standards, and incident-management obligations.
+
+TITLE: Regulatory Reporting & Notification Standard
+CATEGORY: REGULATORY & COMPLIANCE
+REFERENCE_ID: POL-CMP-REG-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly provide information and cooperation required for applicable regulatory filings, governmental inquiries, statutory notifications, compliance reporting, and legally mandated disclosures relating to contracted activities.
+
+TITLE: Compliance Certification & Evidence Standard
+CATEGORY: GOVERNING AUDIT & COMPLIANCE
+REFERENCE_ID: POL-CMP-CER-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide reasonable certifications, records, policies, audit reports, or other evidence necessary to demonstrate compliance with applicable contractual, legal, regulatory, security, and ethical obligations.
+
+TITLE: Compliance Training & Personnel Standard
+CATEGORY: ETHICS & COMPLIANCE
+REFERENCE_ID: POL-CMP-TRN-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide appropriate compliance training to personnel involved in Tata Group engagements where required by applicable law, contractual obligations, or the nature of the services.
+
+TITLE: Compliance Breach Notification Standard
+CATEGORY: ETHICS & COMPLIANCE
+REFERENCE_ID: POL-CMP-BRE-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of material actual or suspected violations of applicable laws, contractual compliance obligations, anti-corruption requirements, sanctions restrictions, data protection requirements, or other material compliance standards.
+
+TITLE: Compliance Remediation & Corrective Action Standard
+CATEGORY: ETHICS & COMPLIANCE
+REFERENCE_ID: POL-CMP-REM-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must investigate material compliance failures, implement appropriate corrective actions within agreed timelines, and provide evidence of remediation where reasonably requested by Tata Group.
+
+TITLE: Subcontractor Compliance Flow-Down Standard
+CATEGORY: VENDOR MANAGEMENT & COMPLIANCE
+REFERENCE_ID: POL-CMP-SUB-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors must impose applicable contractual compliance, confidentiality, data protection, security, anti-corruption, and regulatory obligations on approved subcontractors involved in Tata Group services.
+
+TITLE: Compliance Cooperation & Investigation Standard
+CATEGORY: GOVERNING AUDIT & COMPLIANCE
+REFERENCE_ID: POL-CMP-INV-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendors must reasonably cooperate with Tata Group investigations, compliance reviews, audits, regulatory inquiries, and requests for information concerning potential violations related to contracted activities.

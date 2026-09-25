@@ -1,0 +1,71 @@
+TITLE: Vendor Professional Liability Insurance Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-PRO-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors providing professional, consulting, technology, advisory, or other specialized services must maintain appropriate professional liability or errors and omissions insurance throughout the contractual term.
+
+TITLE: Vendor Cyber Liability Insurance Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-CYB-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors handling Tata Group systems, personal data, confidential information, or material technology services must maintain appropriate cyber liability insurance covering relevant data breaches, security incidents, privacy claims, and cyber risks.
+
+TITLE: Commercial General Liability Insurance Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-CGL-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors whose activities create material physical, operational, or third-party exposure must maintain appropriate commercial general liability insurance covering applicable bodily injury, property damage, and related third-party claims.
+
+TITLE: Insurance Coverage Threshold Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-LIM-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Required insurance coverage limits must be proportionate to the nature, value, duration, geography, and risk profile of the engagement and must meet any expressly specified contractual minimums.
+
+TITLE: Insurance Policy Continuity Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-CON-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Required insurance policies must remain active throughout the contractual term and vendors must provide timely evidence of renewal or replacement coverage before existing policies expire.
+
+TITLE: Insurance Certificate & Evidence Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-CER-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide certificates of insurance or equivalent evidence confirming required coverage, policy limits, effective dates, and applicable insurers upon request or before commencement of covered services.
+
+TITLE: Additional Insured & Contractual Liability Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-AIN-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Where commercially and legally appropriate, contracts should require vendors to extend applicable insurance protections to Tata Group entities or address contractual liability arising from the vendor's obligations.
+
+TITLE: Insurance Cancellation & Material Change Notification Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-NOT-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of cancellation, non-renewal, material reduction, lapse, or other significant change affecting required insurance coverage.
+
+TITLE: Insurance Deductible & Self-Insured Retention Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-DED-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendor deductibles and self-insured retentions must be commercially reasonable and proportionate to the vendor's financial capacity and risk exposure and must not materially impair the required protection.
+
+TITLE: Insurance Claims Cooperation Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-CLM-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of material insured events affecting contractual services and must cooperate with applicable insurers, Tata Group, and authorized representatives in investigation, defense, and resolution of covered claims.
+
+TITLE: Insurance Does Not Limit Contractual Liability Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-NOL-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Required insurance coverage must not be treated as a substitute for or limitation of the vendor's contractual indemnification, liability, confidentiality, data protection, or other obligations unless expressly agreed.
+
+TITLE: Insurance Survival & Post-Term Coverage Standard
+CATEGORY: RISK & INSURANCE
+REFERENCE_ID: POL-INS-SUR-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Where the nature of the risk requires continuing protection after contract termination, vendors must maintain applicable coverage or equivalent extended reporting or tail coverage for the required period.

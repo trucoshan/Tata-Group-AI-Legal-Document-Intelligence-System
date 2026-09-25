@@ -1,0 +1,71 @@
+TITLE: Intellectual Property Ownership Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-OWN-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Intellectual property created specifically for Tata Group under a vendor engagement, including custom software, code, documentation, designs, reports, and other deliverables, must be assigned to or vest in Tata Group to the extent legally permissible.
+
+TITLE: Custom Software & Source Code Ownership Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-SRC-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Custom software, source code, object code, scripts, configurations, technical documentation, and related materials developed specifically for Tata Group must be owned by or assigned to Tata Group upon creation or as contractually specified.
+
+TITLE: Deliverables Intellectual Property Assignment Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-DEL-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must assign all transferable intellectual property rights in contractual deliverables to Tata Group and execute further documents reasonably required to evidence, perfect, or enforce such ownership.
+
+TITLE: Pre-Existing Vendor Intellectual Property Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-PRE-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendor pre-existing intellectual property remains with the vendor unless expressly assigned, but Tata Group must receive sufficient perpetual, worldwide, royalty-free rights to use, modify, maintain, and operate such intellectual property where it is incorporated into contractual deliverables.
+
+TITLE: Third-Party Intellectual Property Licensing Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-3RD-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendors must identify third-party intellectual property incorporated into deliverables and ensure that Tata Group receives all licenses and usage rights necessary for the contracted purpose without undisclosed restrictions.
+
+TITLE: Open Source Software Compliance Standard
+CATEGORY: INTELLECTUAL PROPERTY & COMPLIANCE
+REFERENCE_ID: POL-IP-OSS-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must disclose material open-source components used in deliverables and must comply with applicable license obligations without imposing undisclosed source-disclosure, redistribution, or usage restrictions on Tata Group.
+
+TITLE: Intellectual Property Infringement Warranty Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-WAR-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must represent that contractual deliverables do not knowingly infringe third-party intellectual property rights and must promptly address substantiated infringement claims through replacement, modification, licensing, or other commercially reasonable remedies.
+
+TITLE: Intellectual Property Indemnification Standard
+CATEGORY: INTELLECTUAL PROPERTY & INDEMNIFICATION
+REFERENCE_ID: POL-IP-IND-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Vendors must defend and indemnify Tata Group against covered third-party claims alleging infringement or misappropriation of intellectual property rights arising from vendor-provided deliverables, services, or materials.
+
+TITLE: Intellectual Property Registration & Assistance Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-REG-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide reasonable assistance required to register, document, transfer, protect, or enforce intellectual property rights arising from contractual deliverables in Tata Group's name.
+
+TITLE: Intellectual Property Confidentiality & Protection Standard
+CATEGORY: INTELLECTUAL PROPERTY & CONFIDENTIALITY
+REFERENCE_ID: POL-IP-CON-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must protect Tata Group intellectual property and must not disclose, reproduce, commercialize, license, or otherwise exploit Tata-owned or Tata-confidential intellectual property except as expressly authorized.
+
+TITLE: Intellectual Property Rights Survival Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-SUR-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Intellectual property ownership, assignment, licensing, confidentiality, and infringement obligations intended to survive termination must remain effective after expiration or termination of the applicable agreement.
+
+TITLE: Intellectual Property Moral Rights Waiver Standard
+CATEGORY: INTELLECTUAL PROPERTY
+REFERENCE_ID: POL-IP-MOR-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendors must obtain legally permissible waivers or consents from personnel and contributors concerning applicable moral rights and similar rights in deliverables to the extent necessary for Tata Group's intended use and exploitation.

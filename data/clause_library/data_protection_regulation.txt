@@ -1,0 +1,47 @@
+TITLE: Digital Personal Data Protection Compliance Standard
+CATEGORY: DATA PROTECTION REGULATION
+REFERENCE_ID: POL-REG-DPDP-2026-01
+JURISDICTION: India
+GUIDANCE: Processing of digital personal data must comply with applicable requirements of India's Digital Personal Data Protection framework, including applicable obligations relating to lawful processing, consent, security, and protection of personal data.
+
+TITLE: Data Fiduciary Responsibility Standard
+CATEGORY: DATA PROTECTION REGULATION
+REFERENCE_ID: POL-REG-DPDP-2026-02
+JURISDICTION: India
+GUIDANCE: Organizations determining the purpose and means of processing personal data must fulfill applicable Data Fiduciary responsibilities, including ensuring that processing is carried out in accordance with applicable legal and contractual requirements.
+
+TITLE: Consent & Lawful Processing Standard
+CATEGORY: DATA PROTECTION REGULATION
+REFERENCE_ID: POL-REG-DPDP-2026-03
+JURISDICTION: India
+GUIDANCE: Where consent is the applicable basis for processing, personal data must be processed only after obtaining valid consent in accordance with applicable requirements, with the stated purpose and required notices appropriately communicated to the individual.
+
+TITLE: Data Principal Rights Standard
+CATEGORY: DATA PROTECTION REGULATION
+REFERENCE_ID: POL-REG-DPDP-2026-04
+JURISDICTION: India
+GUIDANCE: Organizations processing personal data must support applicable rights of Data Principals, including rights relating to access to information, correction, updating, erasure, grievance redressal, and withdrawal of consent where applicable.
+
+TITLE: Personal Data Security Safeguard Standard
+CATEGORY: DATA PROTECTION REGULATION
+REFERENCE_ID: POL-REG-DPDP-2026-05
+JURISDICTION: India
+GUIDANCE: Appropriate technical and organizational measures must be implemented to protect personal data against unauthorized processing, access, disclosure, loss, alteration, or compromise in accordance with applicable legal requirements.
+
+TITLE: Personal Data Breach Notification Standard
+CATEGORY: DATA PROTECTION REGULATION
+REFERENCE_ID: POL-REG-DPDP-2026-06
+JURISDICTION: India
+GUIDANCE: Personal data breaches must be handled and notified in accordance with applicable statutory requirements, contractual obligations, and prescribed procedures, with affected parties and authorities notified where legally required.
+
+TITLE: Personal Data Retention & Erasure Standard
+CATEGORY: DATA PROTECTION REGULATION
+REFERENCE_ID: POL-REG-DPDP-2026-07
+JURISDICTION: India
+GUIDANCE: Personal data must not be retained longer than necessary for the applicable purpose or legal obligation and must be erased when retention is no longer legally or operationally required, subject to applicable exceptions.
+
+TITLE: Data Processing Accountability & Records Standard
+CATEGORY: DATA PROTECTION REGULATION
+REFERENCE_ID: POL-REG-DPDP-2026-08
+JURISDICTION: India
+GUIDANCE: Organizations must maintain appropriate records, controls, documentation, and evidence necessary to demonstrate compliance with applicable personal data processing obligations and respond to authorized regulatory or contractual reviews.

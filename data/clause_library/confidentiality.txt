@@ -1,0 +1,53 @@
+TITLE: Confidential Information Definition Standard
+CATEGORY: CONFIDENTIALITY
+REFERENCE_ID: POL-CON-DEF-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Confidential Information must include non-public business, financial, technical, commercial, operational, customer, employee, security, and proprietary information disclosed by or on behalf of Tata Group, whether communicated orally, electronically, visually, or in writing.
+
+TITLE: Permitted Use of Confidential Information
+CATEGORY: CONFIDENTIALITY
+REFERENCE_ID: POL-CON-USE-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors may use Tata Group Confidential Information solely to perform authorized contractual obligations and must not use such information for independent commercial purposes, competitive activities, or unauthorized third-party benefit.
+
+TITLE: Confidential Information Disclosure Restriction
+CATEGORY: CONFIDENTIALITY
+REFERENCE_ID: POL-CON-DIS-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not disclose Confidential Information to any third party except authorized personnel, professional advisers, or approved subcontractors who require access and are bound by confidentiality obligations at least as protective as the applicable agreement.
+
+TITLE: Confidentiality Security Safeguards Standard
+CATEGORY: CONFIDENTIALITY & INFORMATION SECURITY
+REFERENCE_ID: POL-CON-SEC-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors must implement reasonable administrative, technical, and physical safeguards to prevent unauthorized access, disclosure, alteration, loss, or destruction of Tata Group Confidential Information.
+
+TITLE: Compelled Disclosure Protocol
+CATEGORY: CONFIDENTIALITY
+REFERENCE_ID: POL-CON-CMP-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Where disclosure of Confidential Information is required by law, regulation, court order, or governmental authority, vendors must provide prompt written notice where legally permitted and disclose only the information legally required.
+
+TITLE: Confidential Information Return & Destruction Standard
+CATEGORY: CONFIDENTIALITY
+REFERENCE_ID: POL-CON-RET-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Upon request or termination of the applicable agreement, vendors must promptly return or securely destroy Tata Group Confidential Information and certify completion where reasonably required, subject to legally required retention.
+
+TITLE: Confidentiality Exceptions Standard
+CATEGORY: CONFIDENTIALITY
+REFERENCE_ID: POL-CON-EXC-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Confidentiality obligations should exclude information that is publicly available without breach, lawfully known before disclosure, independently developed without use of Confidential Information, or lawfully obtained from an unrestricted third party.
+
+TITLE: Confidentiality Survival Standard
+CATEGORY: CONFIDENTIALITY
+REFERENCE_ID: POL-CON-SUR-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Confidentiality obligations must survive contract expiration or termination for a defined period, with trade secrets and information requiring continuing protection remaining confidential for as long as legally and commercially appropriate.
+
+TITLE: Confidentiality Incident Notification Standard
+CATEGORY: CONFIDENTIALITY & COMPLIANCE
+REFERENCE_ID: POL-CON-INC-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group upon discovering unauthorized access, disclosure, loss, or compromise of Confidential Information and must cooperate with investigation, containment, remediation, and legally required notifications.

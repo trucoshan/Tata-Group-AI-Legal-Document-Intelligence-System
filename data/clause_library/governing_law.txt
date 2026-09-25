@@ -1,0 +1,47 @@
+TITLE: Standard Governing Law Selection
+CATEGORY: GOVERNING LAW & JURISDICTION
+REFERENCE_ID: POL-LAW-GOV-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Commercial agreements must clearly identify the substantive law governing the agreement, with Indian law preferred for agreements involving Tata business units in India unless an alternative governing law is expressly approved.
+
+TITLE: Jurisdiction & Venue Standard
+CATEGORY: GOVERNING LAW & JURISDICTION
+REFERENCE_ID: POL-LAW-VEN-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Agreements must clearly specify the courts or dispute forum having jurisdiction, with an appropriate Indian jurisdiction preferred for India-based Tata business arrangements unless an alternative venue is expressly approved.
+
+TITLE: Exclusive Jurisdiction Standard
+CATEGORY: GOVERNING LAW & JURISDICTION
+REFERENCE_ID: POL-LAW-EXC-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Where court proceedings are contemplated, agreements should identify whether jurisdiction is exclusive or non-exclusive and must avoid conflicting jurisdiction provisions across the agreement.
+
+TITLE: Conflict of Laws Standard
+CATEGORY: GOVERNING LAW & JURISDICTION
+REFERENCE_ID: POL-LAW-COL-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Governing law provisions should identify the applicable substantive law and address conflict-of-law principles where necessary to avoid uncertainty regarding interpretation and enforcement.
+
+TITLE: Governing Law & Arbitration Consistency Standard
+CATEGORY: GOVERNING LAW & DISPUTE RESOLUTION
+REFERENCE_ID: POL-LAW-ARB-2026-05
+JURISDICTION: India / International
+GUIDANCE: Governing law, arbitration seat, arbitration rules, and court jurisdiction provisions must be internally consistent and must not create conflicting mechanisms for resolving contractual disputes.
+
+TITLE: Cross-Border Governing Law Approval Standard
+CATEGORY: GOVERNING LAW & JURISDICTION
+REFERENCE_ID: POL-LAW-XBR-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Agreements involving cross-border counterparties should use a clearly defined governing law and dispute forum appropriate to the transaction and require legal review where a foreign governing law or jurisdiction materially affects Tata Group rights.
+
+TITLE: Mandatory Law & Regulatory Compliance Standard
+CATEGORY: GOVERNING LAW & COMPLIANCE
+REFERENCE_ID: POL-LAW-MND-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Selection of governing law must not be interpreted as excluding mandatory laws, regulatory requirements, or public policy rules that apply to the parties, transaction, data, or performance location.
+
+TITLE: Governing Law Amendment Standard
+CATEGORY: GOVERNING LAW & CONTRACT MANAGEMENT
+REFERENCE_ID: POL-LAW-AMD-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Any change to the governing law, jurisdiction, venue, or dispute forum must be documented through an authorized written amendment or contractual instrument approved by the appropriate parties.

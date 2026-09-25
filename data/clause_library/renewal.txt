@@ -1,0 +1,53 @@
+TITLE: Standard Contract Renewal Term
+CATEGORY: RENEWAL & CONTRACT MANAGEMENT
+REFERENCE_ID: POL-REN-TERM-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Contract renewal periods must be clearly defined, with each renewal term and applicable renewal conditions expressly stated in the agreement.
+
+TITLE: Automatic Renewal Restriction Standard
+CATEGORY: RENEWAL & CONTRACT MANAGEMENT
+REFERENCE_ID: POL-REN-AUT-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Automatic renewal provisions must provide clear advance notice requirements and must not prevent Tata Group from declining renewal without unreasonable penalties or restrictions.
+
+TITLE: Renewal Notice Period Standard
+CATEGORY: RENEWAL & CONTRACT MANAGEMENT
+REFERENCE_ID: POL-REN-NOT-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Renewal and non-renewal notices should generally be provided 30 to 90 days before contract expiration, with the applicable notice period clearly specified in the agreement.
+
+TITLE: Renewal Pricing & Commercial Review Standard
+CATEGORY: RENEWAL & FINANCIAL
+REFERENCE_ID: POL-REN-PRI-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Renewal pricing, rate increases, and revised commercial terms must be expressly defined or subject to Tata Group's prior approval before a renewal becomes effective.
+
+TITLE: Renewal Performance Review Standard
+CATEGORY: RENEWAL & PERFORMANCE
+REFERENCE_ID: POL-REN-PER-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Contract renewal should remain subject to satisfactory vendor performance, service levels, compliance status, unresolved material issues, and applicable business requirements.
+
+TITLE: Renewal Compliance Review Standard
+CATEGORY: RENEWAL & COMPLIANCE
+REFERENCE_ID: POL-REN-CMP-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Renewal must be subject to confirmation that the vendor continues to satisfy applicable legal, regulatory, data protection, information security, insurance, and contractual compliance requirements.
+
+TITLE: Renewal Modification Standard
+CATEGORY: RENEWAL & CONTRACT MANAGEMENT
+REFERENCE_ID: POL-REN-MOD-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Material changes to contractual terms during renewal must be documented through an executed amendment, renewal agreement, or other authorized written instrument.
+
+TITLE: Non-Renewal Rights Standard
+CATEGORY: RENEWAL & CONTRACT MANAGEMENT
+REFERENCE_ID: POL-REN-NON-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Tata Group must retain the right to decline contract renewal by providing the contractually required notice without being required to demonstrate cause or incur an unreasonable termination or non-renewal penalty.
+
+TITLE: Renewal Continuity & Transition Standard
+CATEGORY: RENEWAL & EXIT
+REFERENCE_ID: POL-REN-TRN-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Where a contract will not be renewed, vendors must support reasonable transition, data return, knowledge transfer, and continuity requirements necessary to prevent material disruption to Tata Group operations.

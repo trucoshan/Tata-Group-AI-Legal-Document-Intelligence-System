@@ -1,0 +1,73 @@
+TITLE: Vendor Audit Rights Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-RGT-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Tata Group must retain contractual rights to audit vendor compliance with contractual, legal, regulatory, security, financial, and operational obligations upon reasonable notice.
+
+TITLE: Financial Records Audit Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-FIN-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain and provide reasonable access to financial, billing, transaction, and supporting records necessary to verify contractual charges, payments, credits, and other financial obligations.
+
+TITLE: Information Security Audit Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-SEC-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors handling Tata Group systems or information must permit reasonable assessment of information security controls, policies, certifications, audit reports, and remediation measures relevant to contracted services.
+
+TITLE: Data Protection Audit Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-DAT-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors processing Tata Group personal data must provide reasonable information and audit cooperation necessary to demonstrate compliance with applicable data protection obligations and contractual privacy requirements.
+
+TITLE: Regulatory Compliance Audit Standard
+CATEGORY: GOVERNING AUDIT & COMPLIANCE
+REFERENCE_ID: POL-AUD-REG-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide reasonable access to records and evidence required to verify compliance with applicable laws, regulations, contractual compliance obligations, sanctions requirements, and approved Tata Group standards.
+
+TITLE: Vendor Facility Inspection Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-FAC-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Tata Group or its designated auditors may conduct reasonable inspections of vendor facilities involved in material service delivery, information processing, security operations, or regulated activities where necessary to verify contractual compliance.
+
+TITLE: Third-Party Auditor Access Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-TPA-2026-07
+JURISDICTION: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-TPA-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Tata Group may appoint qualified independent third-party auditors to perform contractual assessments where specialized expertise, independence, regulatory requirements, or conflict considerations make external review appropriate.
+
+TITLE: Audit Notice & Frequency Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-NOT-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Routine audits should generally be conducted upon reasonable advance notice and at reasonable intervals, while audits triggered by material incidents, suspected breaches, regulatory requirements, or significant risk may occur without standard notice where legally permissible.
+
+TITLE: Audit Cooperation & Evidence Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-COOP-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide reasonable cooperation, personnel access, records, documentation, system evidence, and explanations required to complete authorized audits without unjustified obstruction or delay.
+
+TITLE: Audit Findings & Remediation Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-REM-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must address material audit findings within agreed remediation periods and provide corrective-action evidence where required, with unresolved high-risk findings subject to escalation and appropriate contractual remedies.
+
+TITLE: Audit Confidentiality & Data Handling Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-CNF-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Audit activities must protect confidential, personal, security-sensitive, and proprietary information accessed during the audit, with auditors and participating personnel subject to appropriate confidentiality and data-handling obligations.
+
+TITLE: Audit Record Retention Standard
+CATEGORY: GOVERNING AUDIT
+REFERENCE_ID: POL-AUD-RET-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendors must retain records necessary to demonstrate contractual and regulatory compliance for the applicable contractual or legally required retention period and must make relevant records available during authorized audits.c

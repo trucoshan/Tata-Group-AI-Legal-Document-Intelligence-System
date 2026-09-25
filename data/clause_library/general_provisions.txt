@@ -1,0 +1,83 @@
+TITLE: Severability Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-SEV-2026-01
+JURISDICTION: India / Global
+GUIDANCE: If any provision of an agreement is determined to be invalid, illegal, or unenforceable, the remaining provisions must remain effective to the fullest extent permitted by applicable law.
+
+TITLE: Contractual Waiver Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-WAV-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Failure or delay by either party to exercise a contractual right must not constitute a waiver of that right, and any waiver must be expressly documented in writing by an authorized representative.
+
+TITLE: Assignment & Transfer Restriction Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-ASG-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not assign, transfer, delegate, or otherwise dispose of contractual rights or obligations without prior written approval from authorized Tata Group personnel, except for expressly permitted corporate reorganizations.
+
+TITLE: Entire Agreement Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-EAG-2026-04
+JURISDICTION: India / Global
+GUIDANCE: The executed agreement and expressly incorporated documents must constitute the complete understanding between the parties regarding its subject matter and supersede prior agreements, representations, and understandings relating to that subject matter.
+
+TITLE: Contract Amendment Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-AMD-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Amendments, modifications, or changes to contractual terms must be documented in writing and executed by authorized representatives of the parties unless the agreement expressly permits another documented change mechanism.
+
+TITLE: Notices & Formal Communications Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-NOT-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Contracts must specify valid methods, addresses, designated recipients, and effective dates for formal notices, including notices relating to breach, termination, renewal, disputes, and other material contractual matters.
+
+TITLE: Order of Precedence Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-ORD-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Where contractual documents contain conflicting provisions, the agreement must establish a clear order of precedence identifying which document or provision controls.
+
+TITLE: Independent Contractor Relationship Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-IND-2026-08
+JURISDICTION: India / Global
+GUIDANCE: The contractual relationship must not create a partnership, joint venture, employment relationship, agency, or other legal relationship beyond that expressly established by the agreement.
+
+TITLE: No Third-Party Beneficiary Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-TPB-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Agreements should clearly state whether third parties may enforce contractual rights and should not unintentionally create third-party beneficiary rights unless expressly intended and approved.
+
+TITLE: Counterparts & Electronic Execution Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-EXE-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Agreements may permit execution in counterparts and through legally valid electronic signatures or electronic execution methods where permitted by applicable law.
+
+TITLE: Publicity & Disclosure Restriction Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-PUB-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not publicly disclose the existence or terms of a Tata Group engagement, use Tata Group names or trademarks, or issue related publicity without prior written authorization unless disclosure is legally required.
+
+TITLE: Survival of Contractual Obligations Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-SUR-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Provisions intended by their nature to survive expiration or termination, including confidentiality, intellectual property, indemnification, liability, audit, dispute resolution, data protection, and payment obligations, must remain effective after termination.
+
+TITLE: Further Assurances Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-FAS-2026-13
+JURISDICTION: India / Global
+GUIDANCE: Parties must execute reasonable additional documents and take necessary actions required to give effect to contractual rights, obligations, assignments, or transactions expressly contemplated by the agreement.
+
+TITLE: Force Majeure Interaction Standard
+CATEGORY: GENERAL PROVISIONS
+REFERENCE_ID: POL-GEN-FOR-2026-14
+JURISDICTION: India / Global
+GUIDANCE: General provisions must not conflict with contractual force majeure rights and must preserve the separately defined requirements governing notice, mitigation, suspension, and termination arising from qualifying force majeure events.

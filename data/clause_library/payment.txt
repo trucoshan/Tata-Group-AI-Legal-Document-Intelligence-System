@@ -1,0 +1,59 @@
+TITLE: Standard Vendor Payment Terms
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-TERM-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendor invoices should be payable within agreed standard payment terms, with Net 45 or Net 60 days preferred unless a different period is expressly approved.
+
+TITLE: Invoice Submission & Documentation Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-INV-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors must submit accurate invoices containing required purchase order, contract, tax, service, and supporting documentation before the applicable payment period begins.
+
+TITLE: Invoice Validation & Approval Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-VAL-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Payments must be subject to verification and approval of delivered goods or services, contractual pricing, applicable milestones, invoice accuracy, and required internal authorization.
+
+TITLE: Invoice Dispute & Withholding Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-DIS-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Tata Group may withhold disputed invoice amounts in good faith while undisputed amounts remain payable according to the applicable contractual payment terms.
+
+TITLE: Tax & Statutory Deduction Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-TAX-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Payments must comply with applicable tax, withholding, deduction, invoicing, and statutory reporting requirements, with vendors responsible for providing accurate tax documentation.
+
+TITLE: Payment Milestone & Acceptance Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-MIL-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Milestone-based payments must be linked to clearly defined deliverables, acceptance criteria, completion evidence, and authorized approval before payment becomes due.
+
+TITLE: Advance Payment Restriction Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-ADV-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Advance or upfront payments should be minimized and must be supported by defined contractual conditions, appropriate approvals, and safeguards proportionate to the financial exposure.
+
+TITLE: Payment Currency & Banking Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-CUR-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Contractual payment currency, bank-account requirements, applicable foreign-exchange obligations, and permitted payment methods must be clearly specified and subject to applicable financial controls.
+
+TITLE: Late Payment & Interest Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-LAT-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Late-payment interest or other financial remedies must be expressly defined in the agreement and must comply with applicable law and approved commercial terms.
+
+TITLE: Set-Off & Payment Recovery Standard
+CATEGORY: FINANCIAL & PAYMENT
+REFERENCE_ID: POL-PAY-OFF-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Tata Group should retain contractual rights to set off or recover amounts owed by a vendor where legally permissible and supported by documented contractual or financial obligations.

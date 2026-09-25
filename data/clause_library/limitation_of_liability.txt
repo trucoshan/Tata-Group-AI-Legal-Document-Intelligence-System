@@ -1,0 +1,47 @@
+TITLE: Standard Vendor Liability Cap
+CATEGORY: LIMITATION OF LIABILITY
+REFERENCE_ID: POL-LIA-CAP-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Aggregate vendor liability must be capped at 100 percent of the annual contract value unless a higher cap is expressly approved by authorized Tata legal leadership.
+
+TITLE: Aggregate Liability Calculation Standard
+CATEGORY: LIMITATION OF LIABILITY
+REFERENCE_ID: POL-LIA-AGG-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Contractual liability caps must apply on an aggregate basis to claims arising from or related to the agreement, with the applicable calculation period and fee base clearly defined.
+
+TITLE: Liability Cap Calculation Period
+CATEGORY: LIMITATION OF LIABILITY
+REFERENCE_ID: POL-LIA-PER-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Standard liability caps should be calculated using fees paid or payable during the twelve months preceding the event giving rise to the claim, unless the agreement establishes an approved alternative period.
+
+TITLE: Liability Cap Exclusions
+CATEGORY: LIMITATION OF LIABILITY
+REFERENCE_ID: POL-LIA-EXC-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Liability caps should not restrict obligations arising from fraud, willful misconduct, confidentiality breaches, data protection violations, intellectual property infringement, or other expressly designated high-risk obligations.
+
+TITLE: Enhanced Liability Super-Cap Standard
+CATEGORY: LIMITATION OF LIABILITY
+REFERENCE_ID: POL-LIA-SUP-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Where specific high-risk obligations require liability above the standard cap, an enhanced super-cap may be established with defined monetary or contractual limits and appropriate legal approval.
+
+TITLE: Unlimited Liability Restriction
+CATEGORY: LIMITATION OF LIABILITY
+REFERENCE_ID: POL-LIA-UNL-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendor liability must not be unlimited unless expressly justified by the nature of the obligation and approved by authorized Tata legal leadership.
+
+TITLE: Indirect & Consequential Loss Allocation
+CATEGORY: LIMITATION OF LIABILITY
+REFERENCE_ID: POL-LIA-IND-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Agreements should clearly address indirect, consequential, special, incidental, and exemplary damages and should not unintentionally exclude recovery of losses arising from expressly protected high-risk obligations.
+
+TITLE: Mutual Liability Limitation Standard
+CATEGORY: LIMITATION OF LIABILITY
+REFERENCE_ID: POL-LIA-MUT-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Mutual liability caps may be used where commercially appropriate, provided the vendor's aggregate exposure remains sufficient to address the risks allocated to the vendor and applicable exclusions or enhanced caps are preserved.

@@ -1,0 +1,83 @@
+TITLE: Vendor Subcontracting Approval Standard
+CATEGORY: VENDOR MANAGEMENT
+REFERENCE_ID: POL-VEND-SUB-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not subcontract or delegate material contractual obligations to third parties without prior written approval from authorized Tata Group personnel.
+
+TITLE: Vendor Due Diligence Standard
+CATEGORY: VENDOR MANAGEMENT
+REFERENCE_ID: POL-VEND-DD-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors must satisfy applicable Tata Group due diligence requirements covering ownership, financial standing, legal compliance, sanctions, ethics, security, and other risk factors before engagement or renewal.
+
+TITLE: Vendor Personnel Compliance Standard
+CATEGORY: VENDOR MANAGEMENT
+REFERENCE_ID: POL-VEND-PER-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must ensure personnel assigned to Tata Group engagements meet applicable contractual, confidentiality, security, compliance, qualification, and conduct requirements.
+
+TITLE: Vendor Flow-Down Obligations Standard
+CATEGORY: VENDOR MANAGEMENT
+REFERENCE_ID: POL-VEND-FLO-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors must impose applicable confidentiality, data protection, information security, compliance, intellectual property, audit, and other material contractual obligations on approved subcontractors and third parties.
+
+TITLE: Vendor Third-Party Risk Management Standard
+CATEGORY: VENDOR MANAGEMENT & RISK
+REFERENCE_ID: POL-VEND-RSK-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendors must identify, assess, and appropriately manage material risks arising from subcontractors, suppliers, service providers, and other third parties involved in Tata Group engagements.
+
+TITLE: Vendor Change Notification Standard
+CATEGORY: VENDOR MANAGEMENT
+REFERENCE_ID: POL-VEND-CHG-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of material changes affecting ownership, control, financial condition, key personnel, subcontractors, service locations, security posture, or ability to perform contractual obligations.
+
+TITLE: Vendor Business Continuity Standard
+CATEGORY: VENDOR MANAGEMENT & RISK
+REFERENCE_ID: POL-VEND-BCP-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors providing material services must maintain appropriate business continuity and disaster recovery capabilities and must support reasonable continuity requirements applicable to Tata Group services.
+
+TITLE: Vendor Insurance Requirement Standard
+CATEGORY: VENDOR MANAGEMENT & RISK
+REFERENCE_ID: POL-VEND-INS-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain insurance coverage appropriate to the nature and risk of the engagement, including required professional, cyber, commercial, or other applicable coverage throughout the contractual term.
+
+TITLE: Vendor Audit & Compliance Cooperation Standard
+CATEGORY: VENDOR MANAGEMENT & AUDIT
+REFERENCE_ID: POL-VEND-AUD-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must cooperate with authorized Tata Group audits, compliance assessments, security reviews, investigations, and requests for evidence relating to contractual performance and risk obligations.
+
+TITLE: Vendor Conflict of Interest Standard
+CATEGORY: VENDOR MANAGEMENT & ETHICS
+REFERENCE_ID: POL-VEND-COI-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must disclose actual or potential conflicts of interest that could affect impartial performance of Tata Group engagements and must implement appropriate mitigation measures where required.
+
+TITLE: Vendor Anti-Bribery & Ethical Conduct Standard
+CATEGORY: VENDOR MANAGEMENT & ETHICS
+REFERENCE_ID: POL-VEND-ETH-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors and their personnel must comply with applicable anti-bribery, anti-corruption, ethical conduct, and responsible business requirements when performing services for Tata Group.
+
+TITLE: Vendor Data & System Access Standard
+CATEGORY: VENDOR MANAGEMENT & INFORMATION SECURITY
+REFERENCE_ID: POL-VEND-SEC-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendor access to Tata Group systems, facilities, applications, or information must be limited to authorized personnel, restricted to legitimate business purposes, and removed promptly when access is no longer required.
+
+TITLE: Vendor Offboarding & Exit Standard
+CATEGORY: VENDOR MANAGEMENT & TERMINATION
+REFERENCE_ID: POL-VEND-EXT-2026-13
+JURISDICTION: India / Global
+GUIDANCE: Vendors must support orderly offboarding by returning Tata Group property and information, revoking access, completing data deletion or transfer requirements, transferring knowledge, and satisfying surviving contractual obligations.
+
+TITLE: Vendor Performance & Service Compliance Standard
+CATEGORY: VENDOR MANAGEMENT & PERFORMANCE
+REFERENCE_ID: POL-VEND-PERF-2026-14
+JURISDICTION: India / Global
+GUIDANCE: Vendors must meet agreed service levels, delivery requirements, quality standards, milestones, and remediation obligations, with material or repeated failures subject to escalation and applicable contractual remedies.

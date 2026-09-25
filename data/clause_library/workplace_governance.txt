@@ -1,0 +1,71 @@
+TITLE: Workplace Anti-Harassment Standard
+CATEGORY: WORKPLACE GOVERNANCE
+REFERENCE_ID: POL-WPG-HAR-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain and enforce appropriate policies prohibiting workplace harassment, discrimination, retaliation, intimidation, and other inappropriate conduct affecting personnel engaged in Tata Group activities.
+
+TITLE: Prevention of Sexual Harassment (POSH) Standard
+CATEGORY: WORKPLACE GOVERNANCE & COMPLIANCE
+REFERENCE_ID: POL-WPG-POS-2026-02
+JURISDICTION: India
+GUIDANCE: Vendor organizations operating on Tata Group premises or providing services in India must comply with applicable Prevention of Sexual Harassment requirements and maintain an appropriate Internal Committee or equivalent mechanism where legally required.
+
+TITLE: Equal Employment & Non-Discrimination Standard
+CATEGORY: WORKPLACE GOVERNANCE
+REFERENCE_ID: POL-WPG-EDI-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain workplace practices consistent with applicable equal employment, non-discrimination, and fair treatment requirements and must not unlawfully discriminate against personnel involved in Tata Group engagements.
+
+TITLE: Workplace Health & Safety Standard
+CATEGORY: WORKPLACE GOVERNANCE & COMPLIANCE
+REFERENCE_ID: POL-WPG-SAF-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide a safe working environment and comply with applicable occupational health, workplace safety, emergency preparedness, and facility safety requirements relevant to their personnel and contractual activities.
+
+TITLE: Workplace Conduct & Ethics Standard
+CATEGORY: WORKPLACE GOVERNANCE & ETHICS
+REFERENCE_ID: POL-WPG-ETH-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendor personnel engaged in Tata Group activities must comply with applicable professional conduct, ethical behavior, anti-harassment, confidentiality, security, and workplace rules.
+
+TITLE: Grievance Reporting & Investigation Standard
+CATEGORY: WORKPLACE GOVERNANCE
+REFERENCE_ID: POL-WPG-GRV-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain appropriate channels for personnel to report workplace misconduct, harassment, discrimination, safety concerns, or other material workplace violations and must investigate reported matters in accordance with applicable requirements.
+
+TITLE: Anti-Retaliation Standard
+CATEGORY: WORKPLACE GOVERNANCE & ETHICS
+REFERENCE_ID: POL-WPG-RET-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must prohibit retaliation against personnel who make good-faith reports, participate in investigations, raise compliance concerns, or exercise legally protected workplace rights.
+
+TITLE: Workplace Compliance Training Standard
+CATEGORY: WORKPLACE GOVERNANCE & COMPLIANCE
+REFERENCE_ID: POL-WPG-TRN-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide appropriate workplace conduct, anti-harassment, safety, ethics, and legally required compliance training to personnel involved in Tata Group engagements.
+
+TITLE: Vendor Personnel Background & Access Standard
+CATEGORY: WORKPLACE GOVERNANCE & SECURITY
+REFERENCE_ID: POL-WPG-BKG-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Where legally permissible and proportionate to the engagement, vendors must conduct appropriate personnel screening and ensure only authorized and suitably qualified personnel receive access to Tata Group facilities, systems, or information.
+
+TITLE: Labor & Employment Law Compliance Standard
+CATEGORY: WORKPLACE GOVERNANCE & COMPLIANCE
+REFERENCE_ID: POL-WPG-LAB-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must comply with applicable labor, employment, wage, working-hour, benefits, social security, and employment-related legal requirements applicable to personnel performing contractual services.
+
+TITLE: Workplace Incident Notification Standard
+CATEGORY: WORKPLACE GOVERNANCE & RISK
+REFERENCE_ID: POL-WPG-INC-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of material workplace incidents involving Tata Group premises, personnel, operations, or contractual activities where notification is required by contract, law, or applicable safety procedures.
+
+TITLE: Workplace Governance Audit & Evidence Standard
+CATEGORY: WORKPLACE GOVERNANCE & AUDIT
+REFERENCE_ID: POL-WPG-AUD-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain appropriate records demonstrating compliance with applicable workplace governance requirements and provide reasonable evidence or cooperation during authorized Tata Group compliance reviews.

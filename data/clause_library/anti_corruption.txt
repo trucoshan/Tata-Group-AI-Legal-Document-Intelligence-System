@@ -1,0 +1,71 @@
+TITLE: Anti-Bribery & Anti-Corruption Compliance Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors and their personnel must comply with applicable anti-bribery and anti-corruption laws and must not directly or indirectly offer, promise, authorize, solicit, or provide any undue advantage, improper payment, kickback, or other prohibited benefit.
+
+TITLE: Prevention of Corruption Act Compliance Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-02
+JURISDICTION: India
+GUIDANCE: Transactions and activities falling within the scope of Indian law must comply with the Prevention of Corruption Act, 1988, including applicable restrictions concerning bribery of public servants and commercial organisations.
+
+TITLE: Public Official & Government Interaction Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Interactions with public officials, government employees, regulators, or other persons performing public functions must comply with applicable anti-corruption requirements and must not involve improper advantages intended to influence official duties or decisions.
+
+TITLE: Third-Party Anti-Corruption Due Diligence Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors, agents, intermediaries, consultants, distributors, and other relevant third parties must undergo proportionate anti-corruption due diligence before engagement where the nature or circumstances of the relationship creates corruption risk.
+
+TITLE: Gifts, Hospitality & Entertainment Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Gifts, hospitality, entertainment, travel, meals, or other benefits provided or received in connection with Tata Group business must comply with applicable law and approved thresholds and must never be used to improperly influence a business or official decision.
+
+TITLE: Facilitation Payment Prohibition Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not make or authorize unofficial payments or other improper advantages intended to accelerate, secure, or influence routine governmental or business actions except where expressly permitted by applicable law and approved procedures.
+
+TITLE: Political & Charitable Contribution Compliance Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Political contributions, charitable donations, sponsorships, and community contributions made in connection with Tata Group business must comply with applicable laws, approval requirements, and anti-corruption controls and must not be used as a means of obtaining an improper advantage.
+
+TITLE: Books, Records & Accounting Controls Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain accurate and sufficiently detailed books, records, invoices, and supporting documentation relating to transactions performed for Tata Group and must not create false, misleading, concealed, or improperly recorded entries.
+
+TITLE: Anti-Corruption Training & Awareness Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide appropriate anti-bribery and anti-corruption training to personnel and relevant third parties involved in Tata Group engagements where required by applicable law, contractual requirements, or risk assessment.
+
+TITLE: Anti-Corruption Reporting & Investigation Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain appropriate channels for reporting suspected bribery or corruption and must promptly investigate material allegations and cooperate with authorized Tata Group or governmental investigations.
+
+TITLE: Anti-Corruption Breach Notification Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of actual or suspected bribery, corruption, improper payments, material regulatory investigations, or other significant anti-corruption violations connected with the engagement.
+
+TITLE: Anti-Corruption Compliance Records & Audit Standard
+CATEGORY: ANTI-BRIBERY & ANTI-CORRUPTION
+REFERENCE_ID: POL-REG-ABC-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain records and evidence demonstrating compliance with applicable anti-corruption obligations and provide reasonable cooperation during authorized Tata Group audits, reviews, investigations, or regulatory inquiries.

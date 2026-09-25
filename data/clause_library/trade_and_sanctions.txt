@@ -1,0 +1,71 @@
+TITLE: Sanctions Compliance Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-SAN-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors must comply with applicable economic sanctions, trade restrictions, embargoes, and restrictive measures and must not knowingly conduct prohibited transactions involving sanctioned persons, entities, territories, or activities.
+
+TITLE: Sanctioned Party Screening Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-SCR-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain appropriate screening procedures for relevant customers, suppliers, subcontractors, counterparties, and other transaction participants against applicable sanctions and restricted-party lists.
+
+TITLE: Restricted Jurisdiction Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-JUR-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not route transactions, services, funds, goods, technology, or information through restricted or sanctioned jurisdictions where prohibited by applicable trade or sanctions requirements.
+
+TITLE: Export Control Compliance Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-EXP-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors must comply with applicable export control, import control, licensing, classification, and authorization requirements relating to goods, software, technology, technical information, and services provided under the agreement.
+
+TITLE: Trade License & Authorization Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-LIC-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendors must obtain and maintain all licenses, permits, registrations, and governmental authorizations required for the lawful import, export, transfer, delivery, or provision of contracted goods, technology, or services.
+
+TITLE: Restricted Goods & Technology Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-GDS-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendors must identify and appropriately control goods, software, technology, technical data, and services subject to applicable export controls, trade restrictions, or strategic-goods requirements.
+
+TITLE: Sanctions & Export Control Notification Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-NOT-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly notify Tata Group of actual or suspected sanctions violations, export control breaches, restricted-party matches, loss of required authorizations, or other material trade compliance events affecting the engagement.
+
+TITLE: Trade Compliance Records & Audit Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-AUD-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Vendors must maintain appropriate records demonstrating compliance with applicable trade and sanctions requirements and provide reasonable documentation and cooperation for authorized compliance reviews or audits.
+
+TITLE: Subcontractor Trade Compliance Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-SUB-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must ensure that approved subcontractors and other third parties involved in Tata Group transactions comply with applicable sanctions, export controls, import restrictions, and trade compliance obligations.
+
+TITLE: Anti-Circumvention Trade Compliance Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-ACR-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must not structure, route, facilitate, or disguise transactions through intermediaries, affiliates, jurisdictions, or third parties for the purpose of circumventing applicable sanctions, export controls, embargoes, or other trade restrictions.
+
+TITLE: Trade Compliance Due Diligence Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-DD-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors must conduct appropriate trade compliance due diligence on relevant counterparties and transaction structures where the nature, geography, goods, technology, or services create elevated sanctions or export control risk.
+
+TITLE: Trade Compliance Remediation & Cooperation Standard
+CATEGORY: TRADE & SANCTIONS
+REFERENCE_ID: POL-TRD-REM-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendors must investigate material trade compliance failures, implement appropriate corrective measures, cooperate with applicable investigations, and provide evidence of remediation where reasonably required by Tata Group.

@@ -1,0 +1,47 @@
+TITLE: Intellectual Property Indemnification Standard
+CATEGORY: INDEMNIFICATION
+REFERENCE_ID: POL-IND-IP-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors must defend, indemnify, and hold Tata Group harmless from third-party claims alleging that vendor-provided software, products, services, documentation, or deliverables infringe or misappropriate intellectual property rights.
+
+TITLE: Confidentiality Breach Indemnification Standard
+CATEGORY: INDEMNIFICATION
+REFERENCE_ID: POL-IND-CON-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Vendors must indemnify Tata Group against third-party claims, losses, and reasonable costs arising from vendor breaches of contractual confidentiality obligations or unauthorized disclosure of protected information.
+
+TITLE: Data Protection Indemnification Standard
+CATEGORY: INDEMNIFICATION & DATA PROTECTION
+REFERENCE_ID: POL-IND-DAT-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Vendors must indemnify Tata Group against third-party claims and applicable losses arising from vendor breaches of contractual data protection, privacy, security, or personal-data processing obligations.
+
+TITLE: Bodily Injury & Property Damage Indemnification Standard
+CATEGORY: INDEMNIFICATION & RISK
+REFERENCE_ID: POL-IND-BOD-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors must indemnify Tata Group against third-party claims arising from bodily injury, death, or damage to tangible property caused by the vendor's negligence or willful misconduct.
+
+TITLE: Regulatory & Legal Violation Indemnification Standard
+CATEGORY: INDEMNIFICATION & COMPLIANCE
+REFERENCE_ID: POL-IND-REG-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Vendors must indemnify Tata Group against third-party claims and regulatory penalties directly resulting from the vendor's material breach of applicable laws, regulations, or contractual compliance obligations.
+
+TITLE: Vendor Personnel & Subcontractor Indemnification Standard
+CATEGORY: INDEMNIFICATION & VENDOR MANAGEMENT
+REFERENCE_ID: POL-IND-SUB-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Vendor indemnification obligations must extend to qualifying acts and omissions of the vendor's employees, agents, representatives, and approved subcontractors arising from performance of contractual obligations.
+
+TITLE: Indemnification Claim Defense & Settlement Protocol
+CATEGORY: INDEMNIFICATION
+REFERENCE_ID: POL-IND-DEF-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Indemnified parties must provide prompt notice and reasonable cooperation for covered third-party claims. The indemnifying party may control the defense, but no settlement may admit liability or impose obligations on Tata Group without its prior written consent.
+
+TITLE: Indemnification Scope & Risk Allocation Standard
+CATEGORY: INDEMNIFICATION & LIABILITY
+REFERENCE_ID: POL-IND-SCP-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Indemnification must clearly identify covered claims, losses, costs, and expenses and allocate responsibility according to the indemnifying party's acts, omissions, breach, negligence, or misconduct. Indemnification must be interpreted together with applicable liability caps and expressly approved exceptions.

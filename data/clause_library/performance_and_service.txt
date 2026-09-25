@@ -1,0 +1,79 @@
+TITLE: Service Level Agreement Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-SLA-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Vendors must meet clearly defined service levels, performance targets, response times, resolution times, availability requirements, and other measurable service obligations specified in the agreement.
+
+TITLE: Service Availability & Uptime Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-UPT-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Technology and critical service providers must maintain agreed availability levels, with 99.9 percent monthly uptime as the standard target unless a different level is expressly approved based on the service risk profile.
+
+TITLE: Service Performance Measurement Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-MET-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Contracts must define objective performance metrics, measurement methods, reporting periods, service thresholds, and evidence requirements sufficient to determine whether vendor obligations have been met.
+
+TITLE: Service Response & Resolution Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-RES-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Vendors must meet defined response and resolution targets based on incident severity, business impact, and service criticality, with escalation procedures for missed targets.
+
+TITLE: Service Credit & Performance Remedy Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-CRD-2026-05
+JURISDICTION: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-CRD-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Agreements should establish predefined service credits, fee reductions, remediation obligations, or other contractual remedies for material or repeated failure to meet agreed service levels.
+
+TITLE: Material Service Failure Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-FAL-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Repeated or material failure to satisfy contractual performance requirements must trigger documented remediation, escalation, and, where applicable, contractual termination or other available remedies.
+
+TITLE: Defect & Remediation Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-DEF-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly correct defects, errors, non-conformities, or service deficiencies attributable to their performance and must implement appropriate corrective measures without unreasonable additional cost where contractually required.
+
+TITLE: Deliverable Acceptance Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-ACC-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Contractual deliverables must be evaluated against defined acceptance criteria, specifications, milestones, quality requirements, and approval procedures before being deemed accepted.
+
+TITLE: Performance Reporting & Monitoring Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-RPT-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide periodic performance reports containing agreed service metrics, incidents, service-level breaches, corrective actions, and other evidence reasonably required to monitor contractual performance.
+
+TITLE: Critical Incident Escalation Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-INC-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Vendors must promptly escalate critical incidents that materially affect Tata Group operations, systems, data, security, customers, or contractual services and must provide timely status updates until resolution.
+
+TITLE: Business Continuity & Service Recovery Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-BCP-2026-11
+JURISDICTION: India / Global
+GUIDANCE: Vendors providing material or critical services must maintain appropriate business continuity, disaster recovery, backup, and service restoration capabilities consistent with agreed recovery objectives.
+
+TITLE: Continuous Service Improvement Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-CIP-2026-12
+JURISDICTION: India / Global
+GUIDANCE: Vendors should periodically review service performance, identify recurring deficiencies, and implement agreed improvement actions where performance trends or operational risks indicate a need for corrective improvement.
+
+TITLE: Performance Obligation Survival & Transition Standard
+CATEGORY: PERFORMANCE & SERVICE
+REFERENCE_ID: POL-PER-TRN-2026-13
+JURISDICTION: India / Global
+GUIDANCE: Vendors must support orderly service transition upon expiration or termination, including knowledge transfer, documentation, data migration, operational handover, and reasonable continuity assistance where required.

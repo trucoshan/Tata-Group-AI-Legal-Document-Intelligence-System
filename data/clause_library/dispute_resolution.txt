@@ -1,0 +1,59 @@
+TITLE: Executive Dispute Escalation Standard
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-NEG-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Contractual disputes should first be escalated to designated senior representatives of the parties for good-faith negotiation before commencing formal proceedings, unless urgent relief or immediate proceedings are expressly permitted.
+
+TITLE: Dispute Resolution Escalation Period
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-ESC-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Agreements should define a reasonable period for executive-level resolution attempts and clearly specify when a dispute may proceed to mediation, arbitration, or court proceedings.
+
+TITLE: Institutional Arbitration Standard
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-ARB-2026-03
+JURISDICTION: India / International
+GUIDANCE: Where arbitration is selected, agreements should provide for binding institutional arbitration under an established arbitral institution and clearly specify the applicable arbitration rules.
+
+TITLE: Arbitration Seat & Venue Standard
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-SEA-2026-04
+JURISDICTION: India / International
+GUIDANCE: Arbitration agreements must clearly specify the legal seat and, where relevant, hearing venue, with Mumbai or another appropriate Indian seat preferred for India-based Tata arrangements unless an alternative is approved.
+
+TITLE: Arbitration Tribunal Standard
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-TRI-2026-05
+JURISDICTION: India / International
+GUIDANCE: Arbitration provisions must clearly define the number and appointment mechanism of arbitrators and should provide a neutral and enforceable process for constitution of the tribunal.
+
+TITLE: Arbitration Language Standard
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-LNG-2026-06
+JURISDICTION: India / International
+GUIDANCE: Arbitration provisions should specify the language of proceedings and contractual documents where cross-border or multilingual transactions could otherwise create uncertainty.
+
+TITLE: Interim & Injunctive Relief Standard
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-REL-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Agreements should preserve the ability of Tata Group to seek urgent interim, injunctive, or protective relief from a competent court where necessary to protect confidential information, intellectual property, data, assets, or other legal rights.
+
+TITLE: Dispute Resolution Exclusivity Standard
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-EXC-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Agreements must clearly establish the applicable dispute resolution mechanism and avoid conflicting provisions that could permit simultaneous or inconsistent negotiation, arbitration, and court proceedings.
+
+TITLE: Dispute Costs & Allocation Standard
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-CST-2026-09
+JURISDICTION: India / International
+GUIDANCE: Agreements should address allocation of arbitration, mediation, legal, and procedural costs in accordance with the selected dispute resolution rules and applicable law.
+
+TITLE: Continuing Obligations During Disputes
+CATEGORY: DISPUTE RESOLUTION
+REFERENCE_ID: POL-DIS-CON-2026-10
+JURISDICTION: India / Global
+GUIDANCE: Initiation of a dispute should not automatically suspend undisputed contractual obligations, and parties should continue performing unaffected obligations unless otherwise agreed or legally prohibited.

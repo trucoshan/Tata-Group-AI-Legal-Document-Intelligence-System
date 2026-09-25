@@ -1,0 +1,53 @@
+TITLE: Termination for Convenience Standard
+CATEGORY: TERMINATION & EXIT
+REFERENCE_ID: POL-TERM-CON-2026-01
+JURISDICTION: India / Global
+GUIDANCE: Tata Group must retain the right to terminate contracts for convenience upon 30 to 60 days written notice without termination penalties, subject to expressly agreed commercial obligations.
+
+TITLE: Material Breach Termination Standard
+CATEGORY: TERMINATION & EXIT
+REFERENCE_ID: POL-TERM-BRC-2026-02
+JURISDICTION: India / Global
+GUIDANCE: Either party may terminate for an unremedied material breach following a contractual cure period of 15 to 30 days, unless the nature of the breach reasonably prevents cure.
+
+TITLE: Immediate Termination Events Standard
+CATEGORY: TERMINATION & EXIT
+REFERENCE_ID: POL-TERM-IMM-2026-03
+JURISDICTION: India / Global
+GUIDANCE: Immediate termination may be permitted for fraud, corruption, serious confidentiality or data protection violations, willful misconduct, insolvency, unlawful conduct, or other breaches that cannot reasonably be cured.
+
+TITLE: Termination for Regulatory Non-Compliance
+CATEGORY: TERMINATION & COMPLIANCE
+REFERENCE_ID: POL-TERM-REG-2026-04
+JURISDICTION: India / Global
+GUIDANCE: Tata Group must retain the right to terminate where continued performance would create material regulatory, sanctions, legal, or compliance exposure arising from the counterparty's conduct.
+
+TITLE: Termination Notice & Effective Date Standard
+CATEGORY: TERMINATION & EXIT
+REFERENCE_ID: POL-TERM-NOT-2026-05
+JURISDICTION: India / Global
+GUIDANCE: Termination notices must be provided in the contractually specified form and method and must clearly identify the effective termination date and applicable termination basis.
+
+TITLE: Termination Consequences & Accrued Obligations Standard
+CATEGORY: TERMINATION & EXIT
+REFERENCE_ID: POL-TERM-ACC-2026-06
+JURISDICTION: India / Global
+GUIDANCE: Contract termination must not extinguish accrued payment, confidentiality, indemnity, intellectual property, audit, data protection, dispute resolution, or other obligations expressly intended to survive termination.
+
+TITLE: Post-Termination Assistance Standard
+CATEGORY: TERMINATION & EXIT
+REFERENCE_ID: POL-TERM-TRN-2026-07
+JURISDICTION: India / Global
+GUIDANCE: Vendors must provide reasonable transition, knowledge transfer, data return, migration, and operational assistance following termination where required to support continuity of Tata Group operations.
+
+TITLE: Termination Due to Insolvency Standard
+CATEGORY: TERMINATION & EXIT
+REFERENCE_ID: POL-TERM-INS-2026-08
+JURISDICTION: India / Global
+GUIDANCE: Agreements should permit termination or appropriate contractual remedies where a vendor becomes insolvent, enters liquidation, ceases material operations, or becomes subject to comparable insolvency proceedings.
+
+TITLE: Termination Rights for Repeated Service Failure
+CATEGORY: TERMINATION & PERFORMANCE
+REFERENCE_ID: POL-TERM-PER-2026-09
+JURISDICTION: India / Global
+GUIDANCE: Tata Group may terminate where a vendor repeatedly fails to meet material contractual service levels or performance obligations after applicable notice and remediation requirements have been satisfied.
